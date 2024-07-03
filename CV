@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="fr">
+ <head>
+   <title>CV</title>
+      <!-- ou mettre ce code?? <style>
+      .div{
+        border: 5px
+          background-color: red
+          text-align: center
+      }
+         </div>-->
+   <!--div{
+  border-width: 3px;
+  border-style: groove;
+  border-color: red;
+}-->
+  </head>
+  <body>
+    <!--<img src="https://fr.web.img6.acsta.net/pictures/19/09/18/13/46/0198270.jpg":/>-->
+      <h1>coordonées</h1>
+      <adress>
+        <p>Résidence les tulipiers</p>
+        <p>4 rue du forgeron</p>
+        <p>69720 saint bonnet de mûre<p>
+    </adress>
+    <h2>métiers visé</h2>
+    <p>Je recherche un job de vendeur</p>
+    <h2>compétences</h2>
+    <ol>
+      <li>connaissance du codage</li>
+      <li>back office</li>
+      <li>gestion de la caisse</li>
+      <li>accueil de la clientèle</li>
+    </ol>
+    <h3>experience professionnelle</h3>
+<ul>
+  <li>de 2022 à 2023 caissier bm</li>
+  <li>de 2012 à 2016 mcdo</li>
+ </ul>
+    <section>
+      <h3>formation professionnelle<h3>
+        <li>
+          <li>2007/2009CAP vente au lycée jacque BREL</li>
+          <li>2023/2024 remise à niveaux au cefi de bron</li>
+        <li>2012formation au règle d'hygiene pour travailler a Mcdonald's</li>
+        </ul>
+    </section>
+      <footer>
+        copyright
+      </footer>
+  </body>
+
+
+h1{
+  font-family: oswald, sans serif; color: purple
+}
+adress{
+  font-family: courier, sans serif; color: red
+}
+h2{
+  font-family: lora, sans serif; color: yellow
+}
+body{
+  background-color: lightblue;
+}
+h3{
+  text-align: right;
+  color: red
+}
+ul{
+  text-align: right;
+  color: purple
+}
+h3{
+  font-family: pacifico, sans serif;
+  color:
+}
+ul{
+  font-family: verdana;
+  color: 
+}
+ol{
+  font-family: nunito, sans serif;
+  color: 
+}
+div{
+  border-width: 3px;
+  border-style: groove;
+  border-color: red;
+}
